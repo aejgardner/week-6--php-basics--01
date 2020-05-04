@@ -11,7 +11,6 @@ while ($totalNums < 117) {
         $total += $index;
         $totalNums += 1;
     }
-    
 }
 
 var_dump($total);
